@@ -6,7 +6,10 @@ Write Up collection from CTF competition
 > [Google Docs](https://docs.google.com/document/d/1eaYeWbDRu8qS_UBqTRPUldurUeqey9CBusmWcGs7XAI/mobilebasic) |
 > [Github](https://github.com/D4v1nc1-C0d3/WU-Collection/tree/master/Cyber%20Jawara/2017)
 
-
+## Hacktoday
+* Hacktoday 2019 Write up by [DihKogAku?](http://tenesys.blogspot.com/2019/08/writeups-hacktoday-2019.html?m=1)
+> [Google Drive](https://drive.google.com/file/d/1P2iolk7YrooB22ZzI_Iv47NksljNoUj3/view?usp=drivesdk ) |
+> [Github](https://github.com/D4v1nc1-C0d3/WU-Collection/tree/master/Hacktoday/2019)
 
 
 
