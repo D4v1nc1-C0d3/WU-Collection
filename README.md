@@ -1,13 +1,13 @@
 # WU-Collection
-Write Up collection from CTF competition
+Write Up collection from CTF competition, it's the [CTF](https://github.com/D4v1nc1-C0d3/CTF-Collection/) 
 
 ## Cyber Jawara 
 * Cyber Jawara 2017 
 => Quals Write up by [Cyber Security IPB](https://www.youtube.com/channel/UCH6CPf10u9uQu3w1DRhOliw ([Google Docs](https://docs.google.com/document/d/1eaYeWbDRu8qS_UBqTRPUldurUeqey9CBusmWcGs7XAI/mobilebasic) | [Github](https://github.com/D4v1nc1-C0d3/WU-Collection/tree/master/Cyber%20Jawara/2017)) 
 
 * Cyber Jawara 2019 
-=> Quals Write up by Mari Bercuan ([Github](https://github.com/D4v1nc1-C0d3/WU-Collection/tree/master/Cyber%20Jawara/2019)) 
-=> Final Write up by ZEN ([Github](https://github.com/D4v1nc1-C0d3/WU-Collection/tree/master/Cyber%20Jawara/2019))
+=> Quals Write up by Mari Bercuan ([Github](https://github.com/D4v1nc1-C0d3/WU-Collection/tree/master/Cyber%20Jawara/2019)) ([CTF](https://github.com/D4v1nc1-C0d3/CTF-Collection/tree/master/Cyber%20Jawara/2019/Cyber%20Jawara%202019%20Quals.zip))
+=> Final Write up by ZEN ([Github](https://github.com/D4v1nc1-C0d3/WU-Collection/tree/master/Cyber%20Jawara/2019)) ([CTF](https://github.com/D4v1nc1-C0d3/CTF-Collection/tree/master/Cyber%20Jawara/2019/Cyber%20Jawara%202019%20Final.zip))
 
 ## Hacktoday
 * Hacktoday 2019
@@ -19,5 +19,4 @@ Write up by [DihKogAku?](http://tenesys.blogspot.com/2019/08/writeups-hacktoday-
 ## Icyption 
 * Icyption 2020 
 => Final Write up by [Cacadosman](https://abdullahnz.github.io/) ([Blog](https://abdullahnz.github.io/writeup/final/2020/08/06/writeup-final-icyption-2020.html)) 
-
 
